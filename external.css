@@ -1,0 +1,46 @@
+#mybox{
+    
+    width: 200px;
+    height: 200px;
+    /* box shadow */
+    /* box-shadow: 0px 0px 10px 10px inset rgb(150, 134, 134); */
+    margin-left: 50%;
+    border-style: solid;
+    border-color:grey ;
+    border-width: 0.1px;
+    border-radius: 10px;
+    
+    
+}
+img{
+    border-radius:10px 10px 0px 0px ;
+}
+.circle{
+    background-color: aquamarine;
+    border-radius:120px;
+    width: 200px;
+    height: 200px;
+
+}
+h1{
+    color: rgb(196, 196, 204);
+    text-align: center;
+    padding: 30px;
+
+}
+p{
+    font-size:15px ;
+    text-align: center;
+    color: grey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+#mybox:hover{border-color: blue;
+    border-width:2px ;}
+    #example{
+
+    }
+    table,td{
+        border-color: black;
+        /* border-style: solid; */ */
+    }
